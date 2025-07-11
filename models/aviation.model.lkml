@@ -1,4 +1,4 @@
-connection: "faa"
+connection: "looker-bq-test-db"
 
 # include all the views
 include: "/views/**/*.view"
